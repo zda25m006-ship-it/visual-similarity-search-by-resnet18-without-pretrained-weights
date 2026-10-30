@@ -6,6 +6,7 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CIFAR-100](https://img.shields.io/badge/Dataset-CIFAR--100-green.svg)](https://www.cs.toronto.edu/~kriz/cifar.html)
+[![Demo Video](https://img.shields.io/badge/Demo-Screen%20Recording-red.svg)](https://github.com/zda25m006-ship-it/visual-similarity-search-by-resnet18-without-pretrained-weights/releases/download/v1.0.0/demo_screen_recording.mp4)
 
 ---
 
