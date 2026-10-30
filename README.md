@@ -10,6 +10,20 @@
 
 ---
 
+## 🎬 Live Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zda25m006-ship-it/visual-similarity-search-by-resnet18-without-pretrained-weights/main/demo.gif" alt="Visual Similarity Search Demo" width="100%"/>
+</p>
+
+<p align="center">
+  <em>Live demo of the Streamlit UI — upload a query image and retrieve the top-5 visually similar images from CIFAR-100 in real time.</em>
+  <br/>
+  <a href="https://github.com/zda25m006-ship-it/visual-similarity-search-by-resnet18-without-pretrained-weights/releases/download/v1.0.0/demo_screen_recording.mp4">📥 Download full video (MP4, 89 MB)</a>
+</p>
+
+---
+
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
@@ -223,8 +237,8 @@ atri ai/
 
 ```bash
 # Option A: Clone via Git
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd "atri ai"
+git clone https://github.com/zda25m006-ship-it/visual-similarity-search-by-resnet18-without-pretrained-weights.git
+cd visual-similarity-search-by-resnet18-without-pretrained-weights
 
 # Option B: Download ZIP from GitHub and extract it
 # Then open a terminal inside the extracted folder
